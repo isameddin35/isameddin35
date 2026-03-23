@@ -33,7 +33,7 @@ A secure file storage API with:
 - **Backend:** Spring Boot  
 - **Database:** PostgreSQL  
 - **DevOps:** Docker, Docker Compose, Kubernetes
-- **Messaging / Streaming:** Docker, Docker Compose, Kubernetes
+- **Messaging / Streaming:** Kafka
 - **Storage:** MinIO  
 - **Tools:** Git, Liquibase
 - **Caching:** Redis
