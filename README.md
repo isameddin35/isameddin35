@@ -53,4 +53,4 @@ A secure file storage API with:
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/isameddin35
-- LinkedIn: https://www.linkedin.com/in/isam%C9%99ddin-qurbanov-b0a2881ab/
+- LinkedIn: https://www.linkedin.com/in/isamaddin-qurbanov/
